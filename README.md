@@ -14,7 +14,7 @@
 
 <H2>Interactive Map</H2> 
  
- <iframe src="https://public.tableau.com/views/MexicoRegionalExportsFDI/ExportsTimeseries?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+ <iframe src="https://public.tableau.com/views/MexicoRegional-Final/Exports-Dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
   <Br>
  
       
